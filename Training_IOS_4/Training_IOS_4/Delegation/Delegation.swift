@@ -7,7 +7,7 @@
 
 import Foundation
 
-protocol pushDataCell {
+protocol PushDataCell {
     
     func passData(value: Double, month: Int, persent: Double)
     
